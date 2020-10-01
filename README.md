@@ -2,13 +2,13 @@
 Generate custom serial keys within unity!
 
 ## Preview
-![alt text](https://github.com/norseware/VikingKeys/blob/master/images/preview.png)
+![alt text](https://github.com/xyberviri/VikingKeys/blob/master/images/preview.png)
 
 ## Fully Commented Code
-![alt text](https://github.com/norseware/VikingKeys/blob/master/images/code.png)
+![alt text](https://github.com/xyberviri/VikingKeys/blob/master/images/code.png)
 
 ## Demo
-![alt text](https://github.com/norseware/VikingKeys/blob/master/images/demo.gif)
+![alt text](https://github.com/xyberviri/VikingKeys/blob/master/images/demo.gif)
 
 #
 
